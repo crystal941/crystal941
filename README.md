@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kia Ora 👋
+
+- 🌱 I'm currently working on my Computer Science degree at [UoA](https://www.auckland.ac.nz/en.html "University of Auckland")
+- 🥾 Hiking lover
 
 <!--
 **crystal941/crystal941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
